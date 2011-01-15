@@ -21,9 +21,9 @@
         </license>
     </licenses>
     <scm>
-        <url>git@github.com:sps/notifo4j-log4j-appender.git</url>
-        <connection>scm:git:git@github.com:sps/notifo4j-log4j-appender.git</connection>
-        <developerConnection>scm:git:git@github.com:sps/notifo4j-log4j-appender.git</developerConnection>
+        <url>git@github.com:sps/notifo-log4j-appender.git</url>
+        <connection>scm:git:git@github.com:sps/notifo-log4j-appender.git</connection>
+        <developerConnection>scm:git:git@github.com:sps/notifo-log4j-appender.git</developerConnection>
     </scm>
     <developers>
         <developer>
